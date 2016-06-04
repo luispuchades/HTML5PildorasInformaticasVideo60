@@ -1,0 +1,50 @@
+/* CSS Document */
+
+/**Curso: HMTL5 - Pildoras Informáticas - API File VII
+ * Origin: Capitulo60.html ==> Eliminando archivos
+ */
+
+#zona-contenedor {
+/*    background: red;*/
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    max-width: 80%;
+    min-width: 480px;
+}
+
+#caja-formulario {
+/*    background: #000;*/
+    border: 1px solid #039;
+    display: inline-block;
+    margin: auto;
+    height: 200px;
+    min-width: 300px;
+    padding: 20px;
+    text-align: left;
+    vertical-align: top;
+    width: 40%;
+}
+
+#zona-datos {
+/*    background: #999;*/
+    border: 1px solid #F00;
+    display: inline-block;
+    margin: auto;
+    height: 200px;
+    min-width: 300px;
+    padding: 20px;
+    vertical-align: top;
+    width: 40%;
+}
+
+#zona-datos div {
+    border-bottom: 3px solid #00F;
+    padding: 15px;
+}
+
+.directorio {
+    color: #0000FF;
+    font-weight: bold;
+    cursor: pointer;
+}
